@@ -16,7 +16,7 @@ body {
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
@@ -24,20 +24,14 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header div ul {
+.header ul {
+    display: inline;
     list-style-type: none;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-.header div ul li {
-    display: inline-block;
+.header ul li {
+    display: inline;
     margin-left: 25px;
 }
 
