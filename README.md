@@ -8,6 +8,8 @@ This challenge was to take old code and update the semantics of the HTML to mode
 
 The easiest way to get my project running will be clicking/copy pasting the link into a default browser that will automatically open the webpage. Or you could open the code and open in a default browser.
 
+https://jarrettbutler.github.io/Challenge01/
+
 ## Usage
 
 The site is used for marketing telling yuo what the benifits are of updating semantic HTML for accesibility purposes.
