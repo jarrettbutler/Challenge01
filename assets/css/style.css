@@ -15,6 +15,7 @@ body {
     color: #ffffff;
 }
 
+/*Changed header to inline*/
 .header h1 {
     font-size: 48px;
     display: inline;
@@ -23,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Took out all header div's*/
 .header ul {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,9 +44,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* took out p it wasnt needed*/
 
 .hero {
     height: 800px;

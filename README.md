@@ -8,7 +8,12 @@ This challenge was to take old code and update the semantics of the HTML to mode
 
 The easiest way to get my project running will be clicking/copy pasting the link into a default browser that will automatically open the webpage. Or you could open the code and open in a default browser.
 
-https://jarrettbutler.github.io/Challenge01/
+You can find the links here as well as a screen shot:
+https://github.com/jarrettbutler/SemanticHTMLUpdate
+https://jarrettbutler.github.io/SemanticHTMLUpdate/
+
+<img src=./assets/images/websitescreenshot01.jpg alt="Website screenshot">
+<img src=./assets/images/websitescreenshot02.jpg alt="Website screenshot">
 
 ## Usage
 
